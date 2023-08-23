@@ -349,9 +349,10 @@ a:hover {
     display: flex;
     text-align: initial;
     flex-wrap: wrap;
-    gap: 2.5rem;
+    gap: 3rem;
     padding: 1rem 2rem;
-    justify-content: space-around;
+    justify-content: center;
+    
 }
 
 .article {
